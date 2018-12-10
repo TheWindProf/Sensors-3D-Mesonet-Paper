@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: 3DMesonet_Chilson.aux
+The style file: mdpi.bst
+Database file #1: chilson_refs.bib
+You've used 16 entries,
+            2795 wiz_defined-function locations,
+            802 strings with 9616 characters,
+and the built_in function-call counts, 6664 in all, are:
+= -- 449
+> -- 586
+< -- 9
++ -- 215
+- -- 182
+* -- 672
+:= -- 1200
+add.period$ -- 45
+call.type$ -- 16
+change.case$ -- 17
+chr.to.int$ -- 15
+cite$ -- 16
+duplicate$ -- 255
+empty$ -- 456
+format.name$ -- 204
+if$ -- 1311
+int.to.chr$ -- 2
+int.to.str$ -- 16
+missing$ -- 16
+newline$ -- 81
+num.names$ -- 48
+pop$ -- 95
+preamble$ -- 0
+purify$ -- 16
+quote$ -- 0
+skip$ -- 124
+stack$ -- 0
+substring$ -- 224
+swap$ -- 53
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 103
+warning$ -- 0
+while$ -- 41
+width$ -- 0
+write$ -- 195

@@ -1,0 +1,120 @@
+\begin{thebibliography}{-------}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[Lazo \em{et~al.}(2011)Lazo, Lawson, Larsen, and
+  Waldman]{lazo++2011_BAMS}
+Lazo, J.K.; Lawson, M.; Larsen, P.H.; Waldman, D.M.
+\newblock U.S. economic sensitivity to weather variability.
+\newblock {\em Bull. Amer. Meteorol. Soc.} {\bf 2011}, {\em 6},~709--720.
+
+\bibitem[Bloesch and Gourio(2015)]{bloesch+2015_EconPerspectives}
+Bloesch, J.; Gourio, F.
+\newblock The effect of winter weather on {U.S.} economic activity.
+\newblock {\em Econ. Perspectives} {\bf 2015}, {\em 39},~1--20.
+
+\bibitem[{World Meteorological Organization}(2018)]{wmo2018}
+{World Meteorological Organization}.
+\newblock {WMO} Statement on the State of the Global Climate in 2017.
+\newblock Technical Report WMO-No. 1212, World Meteorological Organization,
+  2018.
+
+\bibitem[National Research~Council(2009)]{NRC2009}
+National Research~Council, Washington, D.
+\newblock {\em Observing Weather and Climate from the Ground Up: A Nationwide
+  Network of Networks}; National Academy Press,  2009.
+
+\bibitem[Hardesty and Hoff(2012)]{hardesty+2012}
+Hardesty, R.M.; Hoff, R.M.
+\newblock Thermodynamic Profiling Technologies Workshop Report to the National
+  Science Foundation and the National Weather Service.
+\newblock Technical Report NCAR/TN-488+STR, National Center for Atmospheric
+  Research,  2012.
+
+\bibitem[{National Academies of Sciences, Engineering, and
+  Medicine}(2018{\natexlab{a}})]{2017_2027_DecadalSurvey}
+{National Academies of Sciences, Engineering, and Medicine}.
+\newblock {\em Thriving on Our Changing Planet: A Decadal Strategy for Earth
+  Observation from Space}; The National Academies Press: Washington, DC,  2018.
+
+\bibitem[{National Academies of Sciences, Engineering, and
+  Medicine}(2018{\natexlab{b}})]{NAP25138}
+{National Academies of Sciences, Engineering, and Medicine}.
+\newblock {\em The Future of Atmospheric Boundary Layer Observing,
+  Understanding, and Modeling: Proceedings of a Workshop}; The National
+  Academies Press: Washington, DC,  2018.
+
+\bibitem[Geerts \em{et~al.}(2017)Geerts, Raymond, Barth, Detwiler, Klein, Lee,
+  Markowski, and Mullendore]{geerts++2017_UCAR}
+Geerts, B.; Raymond, D.; Barth, M.; Detwiler, A.; Klein, P.; Lee, W.C.;
+  Markowski, P.; Mullendore, G.
+\newblock Community Workshop on Developing Requirements for In Situ and Remote
+  Sensing Capabilities in Convective and Turbulent Environments ({C-RITE}).
+\newblock Technical report, UCAR/NCAR Earth Observing Laboratory,  2017.
+
+\bibitem[Dabberdt \em{et~al.}(2005)Dabberdt, Schlatter, Carr, Friday,
+  Jorgensen, Koch, Pirone, Ralph, Sun, Welsh, Wilson, and
+  Zou]{dabberdt++2005_BAMS}
+Dabberdt, W.F.; Schlatter, T.W.; Carr, F.H.; Friday, E.W.J.; Jorgensen, D.;
+  Koch, S.; Pirone, M.; Ralph, F.M.; Sun, J.; Welsh, P.; Wilson, J.W.; Zou, X.
+\newblock Multifunctioning mesoscale observing networks.
+\newblock {\em Bull. Amer. Meteorol. Soc.} {\bf 2005}, {\em 86},~961--982.
+
+\bibitem[Mahmood \em{et~al.}(2017)Mahmood, Boyles, Brinson, Fiebrich, Foster,
+  Hubbard, Robinson, Andresen, and Leathers]{mahmood++2017_BAMS}
+Mahmood, R.; Boyles, R.; Brinson, K.; Fiebrich, C.; Foster, S.; Hubbard, K.;
+  Robinson, D.; Andresen, J.; Leathers, D.
+\newblock Mesonets: {M}esoscale weather and climate observations for the
+  {U}nited {S}tates.
+\newblock {\em Bull. Amer. Meteorol. Soc.} {\bf 2017}, {\em 98},~1349--1361.
+
+\bibitem[Ziokowska \em{et~al.}(2017)Ziokowska, Fiebrich, Carlson, Melvin,
+  Sutherland, Kloesel, McManus, Illston, Hocker, and
+  Reyes]{ziolkowska++2017_WCAS}
+Ziokowska, J.R.; Fiebrich, C.A.; Carlson, J.D.; Melvin, A.D.; Sutherland, A.J.;
+  Kloesel, K.A.; McManus, G.D.; Illston, B.G.; Hocker, J.E.; Reyes, R.
+\newblock Benefits and beneficiaries of the {O}klahoma {M}esonet: {A}
+  multisectoral ripple effect analysis.
+\newblock {\em Weather Climate Soc.} {\bf 2017}, {\em 9}.
+
+\bibitem[Teixeira \em{et~al.}(2008)Teixeira, Stevens, Bretherton, Cederwall,
+  Klein, Lundquist, Doyle, Golaz, Holtslag, Randall, Randall, and
+  Soares]{teixeira++2008_BAMS}
+Teixeira, J.; Stevens, B.; Bretherton, C.S.; Cederwall, R.; Klein, S.A.;
+  Lundquist, J.K.; Doyle, J.D.; Golaz, J.C.; Holtslag, A.A.M.; Randall, D.A.;
+  Randall, A.A.; Soares, P.M.M.
+\newblock Paramaterization of the atmospheric bounday layer: {A} view from just
+  above the inversion.
+\newblock {\em Bull. Amer. Meteorol. Soc.} {\bf 2008}, {\em 89},~553--458.
+
+\bibitem[Markowski \em{et~al.}(1998)Markowski, Straka, Rasmussen, and
+  Blanchard]{markowski++1998_MWR}
+Markowski, P.M.; Straka, J.M.; Rasmussen, E.N.; Blanchard, D.O.
+\newblock Variability of storm-relative helicity during {VORTEX}.
+\newblock {\em Mon. Wea. Rev.} {\bf 1998}, {\em 126},~2959--2971.
+
+\bibitem[Coffer and Parker(2017)]{coffer+2017_MWR}
+Coffer, B.E.; Parker, M.D.
+\newblock Simulated supercells in nontornadic and tornadic {VORTEX2}
+  environments.
+\newblock {\em Mon. Wea. Rev.} {\bf 2017}, {\em 145},~149--180.
+
+\bibitem[McPherson \em{et~al.}(2007)McPherson, Fiebrich, Crawford, Kilby,
+  Grimsley, Martinez, Basara, Illston, Morris, Kloesel, Melvin, Shrivastava,
+  nbarger, Bostic, Demko, Elliott, Stadler, Carlson, and
+  Sutherland]{mcpheson++2007_JTECH}
+McPherson, R.A.; Fiebrich, C.A.; Crawford, K.C.; Kilby, J.R.; Grimsley, D.L.;
+  Martinez, J.E.; Basara, J.B.; Illston, B.G.; Morris, D.A.; Kloesel, K.A.;
+  Melvin, A.D.; Shrivastava, H.; nbarger, J.M.W.; Bostic, J.P.; Demko, D.B.;
+  Elliott, R.L.; Stadler, S.J.; Carlson, J.; Sutherland, A.J.
+\newblock Statewide Monitoring of the Mesoscale Environment: {A} Techincal
+  Update on the {O}klahoma {M}esonet.
+\newblock {\em J. Atmos. Ocean. Tech.} {\bf 2007}, {\em 24},~301--321.
+
+\bibitem[Xue \em{et~al.}(2000)Xue, Droegemeier, and Wong]{xue++2000_MAP}
+Xue, M.; Droegemeier, K.; Wong, K.
+\newblock The advanced regional prediction system ({ARPS}) - {A} multi-scale
+  nonhydrostatic atmospheric simulation and prediction model. {P}art 1: {M}odel
+  dynamics and verification.
+\newblock {\em Meteorol. Atmos. Phys.} {\bf 2000}, {\em 75},~161--193.
+
+\end{thebibliography}
