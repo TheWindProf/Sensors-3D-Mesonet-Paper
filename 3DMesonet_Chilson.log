@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  10 DEC 2018 10:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdflatex 2015.5.24)  14 DEC 2018 12:49
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -810,7 +810,7 @@ Package epstopdf Info: Source file: <logo-mdpi.eps>
 (epstopdf)                    date: 2018-12-06 02:31:54
 (epstopdf)                    size: 736786 bytes
 (epstopdf)             Output file: <logo-mdpi-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-12-06 06:06:51
+(epstopdf)                    date: 2018-12-10 10:29:43
 (epstopdf)                    size: 67584 bytes
 (epstopdf)             Command: <epstopdf --outfile=logo-mdpi-eps-converted-to.
 pdf logo-mdpi.eps>
@@ -894,20 +894,22 @@ Underfull \hbox (badness 1152) in paragraph at lines 128--129
 [1
 
 {/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logo-
-mdpi-eps-converted-to.pdf>] <figures/ABL.pdf, id=95, 963.6pt x 325.215pt>
-File: figures/ABL.pdf Graphic file (type pdf)
+mdpi-eps-converted-to.pdf>]
+<figures/ABL_profiles_cartoon.pdf, id=95, 542.025pt x 216.81pt>
+File: figures/ABL_profiles_cartoon.pdf Graphic file (type pdf)
 
-<use figures/ABL.pdf>
-Package pdftex.def Info: figures/ABL.pdf used on input line 147.
-(pdftex.def)             Requested size: 963.59766pt x 325.2142pt.
+<use figures/ABL_profiles_cartoon.pdf>
+Package pdftex.def Info: figures/ABL_profiles_cartoon.pdf used on input line 14
+7.
+(pdftex.def)             Requested size: 542.02367pt x 216.80946pt.
  [2]
 Underfull \hbox (badness 1442) in paragraph at lines 156--157
 [][]\T1/ppl/m/n/10 Reword this.[] In re-cent decades, nu-mer-ous states have es
 -tab-lished net-works of \T1/ppl/m/it/10 in-situ
  []
 
-[3 <./figures/ABL.pdf>]
-<figures/OKMesoExample.pdf, id=153, 772.8875pt x 421.575pt>
+[3 <./figures/ABL_profiles_cartoon.pdf>]
+<figures/OKMesoExample.pdf, id=145, 772.8875pt x 421.575pt>
 File: figures/OKMesoExample.pdf Graphic file (type pdf)
 
 <use figures/OKMesoExample.pdf>
@@ -925,41 +927,41 @@ Underfull \hbox (badness 1735) in paragraph at lines 218--219
 mo-spheric mea-sure-ments re-lated to
  []
 
-<figures/3DMesonetConcept.pdf, id=171, 516.44696pt x 292.9102pt>
+<figures/3DMesonetConcept.pdf, id=162, 516.44696pt x 292.9102pt>
 File: figures/3DMesonetConcept.pdf Graphic file (type pdf)
 
 <use figures/3DMesonetConcept.pdf>
 Package pdftex.def Info: figures/3DMesonetConcept.pdf used on input line 223.
 (pdftex.def)             Requested size: 516.4457pt x 292.90948pt.
  [5] [6 <./figures/3DMesonetConcept.pdf>]
-<figures/OSSE1.pdf, id=203, 423.46716pt x 191.25883pt>
+<figures/OSSE1.pdf, id=194, 423.46716pt x 191.25883pt>
 File: figures/OSSE1.pdf Graphic file (type pdf)
  <use figures/OSSE1.pdf>
 Package pdftex.def Info: figures/OSSE1.pdf used on input line 249.
 (pdftex.def)             Requested size: 423.46613pt x 191.25836pt.
 
-<figures/OSSE2.pdf, id=204, 422.50368pt x 205.71164pt>
+<figures/OSSE2.pdf, id=195, 422.50368pt x 205.71164pt>
 File: figures/OSSE2.pdf Graphic file (type pdf)
  <use figures/OSSE2.pdf>
 Package pdftex.def Info: figures/OSSE2.pdf used on input line 257.
 (pdftex.def)             Requested size: 422.50264pt x 205.71112pt.
 
 [7 <./figures/OSSE1.pdf> <./figures/OSSE2.pdf>]
-<figures/CopterSonde.pdf, id=233, 4047.12pt x 3035.34pt>
+<figures/CopterSonde.pdf, id=225, 4047.12pt x 3035.34pt>
 File: figures/CopterSonde.pdf Graphic file (type pdf)
 
 <use figures/CopterSonde.pdf>
-Package pdftex.def Info: figures/CopterSonde.pdf used on input line 284.
+Package pdftex.def Info: figures/CopterSonde.pdf used on input line 282.
 (pdftex.def)             Requested size: 4047.11017pt x 3035.33263pt.
  [8 <./figures/CopterSonde.pdf>]
-<figures/conops.pdf, id=247, 722.7pt x 433.62pt>
+<figures/conops.pdf, id=239, 722.7pt x 433.62pt>
 File: figures/conops.pdf Graphic file (type pdf)
  <use figures/conops.pdf>
 Package pdftex.def Info: figures/conops.pdf used on input line 310.
 (pdftex.def)             Requested size: 722.69823pt x 433.61894pt.
 
 [9 <./figures/conops.pdf>]
-<figures/GeoFenceRadarInset.pdf, id=320, 722.7pt x 542.025pt>
+<figures/GeoFenceRadarInset.pdf, id=311, 722.7pt x 542.025pt>
 File: figures/GeoFenceRadarInset.pdf Graphic file (type pdf)
 
 <use figures/GeoFenceRadarInset.pdf>
@@ -967,85 +969,68 @@ Package pdftex.def Info: figures/GeoFenceRadarInset.pdf used on input line 332.
 
 (pdftex.def)             Requested size: 722.69823pt x 542.02367pt.
  [10 <./figures/GeoFenceRadarInset.pdf>]
-<figures/GeoFenceData.pdf, id=344, 442.25587pt x 180.66005pt>
+<figures/GeoFenceData.pdf, id=336, 442.25587pt x 180.66005pt>
 File: figures/GeoFenceData.pdf Graphic file (type pdf)
 
 <use figures/GeoFenceData.pdf>
 Package pdftex.def Info: figures/GeoFenceData.pdf used on input line 346.
 (pdftex.def)             Requested size: 442.25479pt x 180.6596pt.
  [11 <./figures/GeoFenceData.pdf>]
-<figures/kess5.pdf, id=362, 500.69019pt x 354.62416pt>
+<figures/kess5.pdf, id=354, 500.69019pt x 354.62416pt>
 File: figures/kess5.pdf Graphic file (type pdf)
  <use figures/kess5.pdf>
 Package pdftex.def Info: figures/kess5.pdf used on input line 391.
 (pdftex.def)             Requested size: 500.68895pt x 354.62329pt.
 
-<figures/dataFlow.pdf, id=364, 265.93163pt x 302.0636pt>
+<figures/dataFlow.pdf, id=356, 265.93163pt x 302.0636pt>
 File: figures/dataFlow.pdf Graphic file (type pdf)
 
 <use figures/dataFlow.pdf>
 Package pdftex.def Info: figures/dataFlow.pdf used on input line 413.
 (pdftex.def)             Requested size: 265.93097pt x 302.06285pt.
 
-<figures/dontPanic.pdf, id=366, 451.6875pt x 365.11406pt>
+<figures/dontPanic.pdf, id=358, 451.6875pt x 365.11406pt>
 File: figures/dontPanic.pdf Graphic file (type pdf)
 
 <use figures/dontPanic.pdf>
 Package pdftex.def Info: figures/dontPanic.pdf used on input line 432.
 (pdftex.def)             Requested size: 451.68639pt x 365.11316pt.
 
-<figures/skewT.pdf, id=369, 357.9478pt x 268.82222pt>
+<figures/skewT.pdf, id=361, 357.9478pt x 268.82222pt>
 File: figures/skewT.pdf Graphic file (type pdf)
  <use figures/skewT.pdf>
 Package pdftex.def Info: figures/skewT.pdf used on input line 451.
 (pdftex.def)             Requested size: 357.94691pt x 268.82155pt.
 
-<figures/20171018-1018_Temperature.pdf, id=370, 862.18277pt x 544.9169pt>
-File: figures/20171018-1018_Temperature.pdf Graphic file (type pdf)
+<figures/WASH_fluxcap_uas_temp_vad_color.pdf, id=362, 1156.32pt x 650.43pt>
+File: figures/WASH_fluxcap_uas_temp_vad_color.pdf Graphic file (type pdf)
 
-<use figures/20171018-1018_Temperature.pdf>
-Package pdftex.def Info: figures/20171018-1018_Temperature.pdf used on input li
-ne 459.
-(pdftex.def)             Requested size: 862.18066pt x 544.91557pt.
-
-<figures/20171018-1018_Mixing.pdf, id=371, 863.62817pt x 545.63957pt>
-File: figures/20171018-1018_Mixing.pdf Graphic file (type pdf)
-
-<use figures/20171018-1018_Mixing.pdf>
-Package pdftex.def Info: figures/20171018-1018_Mixing.pdf used on input line 46
-0.
-(pdftex.def)             Requested size: 863.62607pt x 545.63824pt.
-
-<figures/20171018-1018_Wind.pdf, id=372, 938.0665pt x 545.63957pt>
-File: figures/20171018-1018_Wind.pdf Graphic file (type pdf)
-
-<use figures/20171018-1018_Wind.pdf>
-Package pdftex.def Info: figures/20171018-1018_Wind.pdf used on input line 461.
-
-(pdftex.def)             Requested size: 938.06421pt x 545.63824pt.
- [12 <./figures/kess5.pdf>] [13 <./figures/dataFlow.pdf> <./figures/dontPanic.p
-df>] [14 <./figures/skewT.pdf>]
-(./3DMesonet_Chilson.bbl [15 <./figures/20171018-1018_Temperature.pdf> <./figur
-es/20171018-1018_Mixing.pdf> <./figures/20171018-1018_Wind.pdf>])
+<use figures/WASH_fluxcap_uas_temp_vad_color.pdf>
+Package pdftex.def Info: figures/WASH_fluxcap_uas_temp_vad_color.pdf used on in
+put line 462.
+(pdftex.def)             Requested size: 1156.31718pt x 650.4284pt.
+ [12 <./figures/kess5.pdf>]
+[13 <./figures/dataFlow.pdf> <./figures/dontPanic.pdf>] [14 <./figures/skewT.pd
+f>] (./3DMesonet_Chilson.bbl [15 <./figures/WASH_fluxcap_uas_temp_vad_color.pdf
+>])
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 547.
-
-
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 548.
+ 
 AED: lastpage setting LastPage
 [16]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 547.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 547.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 548.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 548.
  (./3DMesonet_Chilson.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 547.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 547.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 548.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 548.
 Package rerunfilecheck Info: File `3DMesonet_Chilson.out' has not changed.
 (rerunfilecheck)             Checksum: 33BF7612704B029F2C97C88FABA392C0;2988.
  ) 
 Here is how much of TeX's memory you used:
- 13735 strings out of 493089
- 195486 string characters out of 6134842
- 296481 words of memory out of 5000000
- 16919 multiletter control sequences out of 15000+600000
+ 13725 strings out of 493089
+ 195269 string characters out of 6134842
+ 296499 words of memory out of 5000000
+ 16911 multiletter control sequences out of 15000+600000
  41584 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  49i,12n,45p,2010b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1057,10 +1042,10 @@ e/2015/texmf-dist/fonts/type1/public/cm-super/sfss0500.pfb></usr/local/texlive/
 2015/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2015/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2015/texmf-dis
 t/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on 3DMesonet_Chilson.pdf (16 pages, 31755124 bytes).
+Output written on 3DMesonet_Chilson.pdf (16 pages, 35021208 bytes).
 PDF statistics:
- 511 PDF objects out of 1000 (max. 8388607)
- 388 compressed objects within 4 object streams
+ 496 PDF objects out of 1000 (max. 8388607)
+ 373 compressed objects within 4 object streams
  64 named destinations out of 1000 (max. 500000)
- 214 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 204 words of extra memory for PDF output out of 10000 (max. 10000000)
 
